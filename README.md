@@ -61,3 +61,9 @@ source via mingw-w64 (see each app's README, "Zint provenance").
 To package either app into a single distributable installer, open
 `installer.iss` in Inno Setup (or run `iscc installer.iss`) after
 building.
+
+## License
+
+All rights reserved — see [`LICENSE`](LICENSE). This is not open-source
+software; no reuse, modification, or redistribution is permitted without
+the copyright holder's prior written permission.
