@@ -20,4 +20,4 @@ Thumbs.db
 # Inno Setup output
 Output/
 *.exe
-!bin/zint.exe
+!**/bin/zint.exe
