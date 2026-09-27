@@ -20,7 +20,13 @@ Both apps support:
   DPI/page size and reporting back what was actually used.
 
 See each app's own README for build steps, the Excel column format, and
-troubleshooting.
+troubleshooting. For a guided walkthrough, see:
+- **[`SETUP_GUIDE.md`](SETUP_GUIDE.md)** — installing prerequisites,
+  getting the code, running from source, building the `.exe`, and
+  building a distributable installer.
+- **[`USER_GUIDE.md`](USER_GUIDE.md)** — preparing your Excel file,
+  mapping columns, choosing a barcode symbology, generating labels, and
+  printing (network ZPL or Windows driver).
 
 ## Shared modules
 
